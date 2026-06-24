@@ -71,6 +71,12 @@ break;
 
     }
 
+    // for loop- it is used to execute a block of code a specified number of times
+//for (start; condition; increment/decrement
+for(int i = 10; i >= 0; i--){
+  print("the number is $i");
+
+}
 
 
 
